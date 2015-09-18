@@ -16,18 +16,18 @@ Usage
 -----
 
 ```
-git_stats_all -p /some/path/to/projects/directory
+$ git_stats_all -p /some/path/to/projects/directory
 ```
 or you can set a environment variable `GIT_STATS_PROJECTS_PATH` and just run it like this:
 
 ```
-git_stats_all
+$ git_stats_all
 ```
 
 You can also make the output more verbose:
 
 ```
-git_stats_all --verbose
+$ git_stats_all --verbose
 ```
 
 
