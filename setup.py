@@ -15,7 +15,7 @@ setup(
     keywords='git-stats, git-stats-importer, git-stats-all',
     entry_points="""
         [console_scripts]
-        git_stats_all=git_stats_all:install_mods
+        git_stats_all=git_stats_all:git_stats_all
     """,
     # test_suite='tests',
     # tests_require=test_requirements
